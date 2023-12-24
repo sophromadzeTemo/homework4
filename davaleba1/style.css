@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header,
+footer {
+  background-color: blue;
+  color: #fff;
+  border: 10px solid darkblue;
+  font-size: 14px;
+  padding: 9px;
+}
+
+main {
+  background-color: yellow;
+  border: 30px solid #808000;
+  font-size: 14px;
+  padding: 14px;
+  margin: 5px 150px 13px 7px;
+}
